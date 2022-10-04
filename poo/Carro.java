@@ -1,4 +1,4 @@
-package ProgramacaoOrientadaObjeto;
+package poo; //ProgramacaoOrientadaObjeto
 
 class Carro {
 
